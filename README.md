@@ -1,16 +1,13 @@
-## Hi there 👋
+# Kirill Starkov
 
-<!--
-**reymondzzzz/reymondzzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build ML systems, from GPU inference and serving infrastructure to AI agents and developer tools.
 
-Here are some ideas to get you started:
+My experience includes extending vLLM for model serving, working on CUDA kernels and TensorRT plugins, and building agent orchestration and tooling at Flexus. I have also worked on distributed model training and inference on AWS Neuron.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- [voice-agent](https://github.com/reymondzzzz/voice-agent) — experiments in real-time voice conversations, background tasks, and agent handoffs with LiveKit and Qwen Omni.
+- [dynamic_weights_conv2d_trt_plugin](https://github.com/reymondzzzz/dynamic_weights_conv2d_trt_plugin) — a TensorRT prototype for convolution with runtime weights.
+- [nn_plugins](https://github.com/reymondzzzz/nn_plugins) — neural-network operator experiments for PyTorch and TensorRT, including DCNv2.
+
+**Tools:** Python, C++, CUDA, Rust, PyTorch, vLLM, TensorRT, Kubernetes.
